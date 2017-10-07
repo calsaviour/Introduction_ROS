@@ -31,3 +31,8 @@ rosed geometry_msgs Twist.msg
 6. Echo a topic
 rostopic echo /turtle1/cmd_vel
 
+
+Reference
+https://ll.mit.edu/publications/technotes/TechNote_LGPR.pdf
+http://www.mdpi.com/1424-8220/16/3/280/htm
+http://wiki.ros.org/ROS/Tutorials/UsingRosEd
