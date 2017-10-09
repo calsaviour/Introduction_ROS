@@ -89,3 +89,5 @@ catkin_create_pkg first_package
 Reference:
 http://www.ros.org/browse/list.php
 http://wiki.ros.org/
+https://cse.sc.edu/~jokane/agitr/
+http://answers.ros.org/
