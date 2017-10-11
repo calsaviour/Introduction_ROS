@@ -3,7 +3,9 @@
 echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
 
 Start Robot Master
-roscore
+```
+bash roscore
+```
 
 vm password : udacity-nd
 
